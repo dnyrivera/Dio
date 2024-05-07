@@ -4,7 +4,7 @@
 
 # DIO | Git e Git Hub
 
-A brief description of what this project does and who it's for [Link do projto](https://www.google.com/).
+A brief description of what this project does and who it's for [Link do projeto](https://www.google.com/).
 
 ## 
 
