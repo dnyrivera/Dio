@@ -23,7 +23,7 @@ For support, email fake@fake.com or join our Slack channel.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@dnyrivera](https://www.github.com/dnyrivera)
 
 
 ## 🚀 About Me
